@@ -38,8 +38,8 @@ The project uses datasets from the **Database Group Leipzig**, part of the Unive
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/big-data-management-entity-resolution.git
-cd big-data-management-entity-resolution
+git clone https://github.com/Enzo77360/BigDataProject.git
+cd Main_project/EntityRes
 ```
 
 ### Requirements:
